@@ -1,4 +1,4 @@
-Certainly! Here's an example of a README file for your GitHub project:
+
 
 # School System 2
 
