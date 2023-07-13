@@ -49,7 +49,10 @@ This project is licensed under the [MIT License](LICENSE).
 If you have any questions or inquiries regarding this project, please contact the project owner:
 
 Name: Patience Kamanthe
-Email: patience.kamanthe@example.com
+Email: patiencekamanthe72@mail.com
+
+Name: Ruweida Ismail
+Email: Ruweida.Ismail@strathmore.edu
 
 Feel free to reach out with any feedback or concerns!
 
