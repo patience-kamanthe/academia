@@ -16,7 +16,7 @@ School System 2 is a web-based application that aims to bridge the gap between p
 
 1. Clone the repository: `git clone https://github.com/patience-kamanthe/school-system2.git`
 2. Navigate to the project directory: `cd school-system2`
-3. Install the dependencies: `[npm install]`
+3. Install the dependencies: 'npm install'
 4. Configure the application by editing the configuration file: `config.js`
 5. Set up the required database and ensure the database connection details are correctly provided in the configuration file.
 6. Run the application: `npm start`
