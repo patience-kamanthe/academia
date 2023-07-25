@@ -18,7 +18,7 @@ School System 2 is a web-based application that aims to bridge the gap between p
 2. Navigate to the project directory: `cd school-system2`
 3. Install the dependencies: 'npm install'
 4. Configure the application by editing the configuration file: `config.js`
-5. Set up the required database and ensure the database connection details are correctly provided in the configuration file.
+5. Set up the required database and ensure the database connection details are correctly Provided in the configuration file.
 6. Run the application: `npm start`
 
 Note: This application requires Node.js and a compatible database (such as MySQL or PostgreSQL) to be installed and configured.
