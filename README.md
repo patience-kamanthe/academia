@@ -6,7 +6,7 @@ School System 2 is a web-based application that aims to bridge the gap between p
 
 ## Features
 
-- **Student Management**: Add, edit, and delete student records. View student details including personal information, contact details, and enrollment status.
+- **Student Management**: Add, edit, and delete student records. View student details Including personal information, contact details, and enrollment status.
 - **Course Management**: Create and manage courses offered by the school. Assign instructors and track enrollment.
 - **report Management**: Record and calculate student grades. Generate grade reports and transcripts.
 - **User Roles**: Different user roles are available, including administrators, teachers, and parents, each with specific permissions and access levels.
