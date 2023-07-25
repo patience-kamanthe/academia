@@ -10,7 +10,7 @@ School System 2 is a web-based application that aims to bridge the gap between p
 - **Course Management**: Create and manage courses offered by the school. Assign instructors and track enrollment.
 - **report Management**: Record and calculate student grades. Generate grade reports and transcripts.
 - **User Roles**: Different user roles are available, including administrators, teachers, and parents, each with specific permissions and access levels.
-- **Authentication and Security**: User authentication and authorization Mechanisms are implemented to ensure secure access to the system.
+- **Authentication and Security**: User authentication and authorization mechanisms are implemented to ensure secure access to the system.
 
 ## Installation
 
