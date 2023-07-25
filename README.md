@@ -31,7 +31,7 @@ Note: This application requires Node.js and a compatible database (such as MySQL
 
 ## Contributing
 
-Contributions to School System 2 are welcome! If you have any suggestions, bug reports, or would like to contribute new features, please follow these steps:
+Contributions to School System 2 are welcome! If you have any suggestions, Bug reports, or would like to contribute new features, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch: `git checkout -b feature-name`
