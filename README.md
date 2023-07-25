@@ -21,7 +21,7 @@ School System 2 is a web-based application that aims to bridge the gap between p
 5. Set up the required database and ensure the database connection details are correctly Provided in the configuration file.
 6. Run the application: `npm start`
 
-Note: This application requires Node.js and a compatible database (such as MySQL or PostgreSQL) to be installed and configured.
+Note: This application requires Node.js and a compatible database (such as MySQL or PostgreSQL) to be Installed and configured.
 
 ## Usage
 
